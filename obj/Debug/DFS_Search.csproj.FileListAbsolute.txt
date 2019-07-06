@@ -1,0 +1,7 @@
+D:\DFS_Search\DFS_Search\DFS_Search\bin\Debug\DFS_Search.exe.config
+D:\DFS_Search\DFS_Search\DFS_Search\bin\Debug\DFS_Search.exe
+D:\DFS_Search\DFS_Search\DFS_Search\bin\Debug\DFS_Search.pdb
+D:\DFS_Search\DFS_Search\DFS_Search\obj\Debug\DFS_Search.csprojAssemblyReference.cache
+D:\DFS_Search\DFS_Search\DFS_Search\obj\Debug\DFS_Search.csproj.CoreCompileInputs.cache
+D:\DFS_Search\DFS_Search\DFS_Search\obj\Debug\DFS_Search.exe
+D:\DFS_Search\DFS_Search\DFS_Search\obj\Debug\DFS_Search.pdb
